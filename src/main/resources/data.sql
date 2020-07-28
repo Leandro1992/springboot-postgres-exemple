@@ -1,0 +1,1 @@
+insert into login(id, name , password ) values(1,'leandro','123456')
